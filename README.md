@@ -1,7 +1,7 @@
 codeigniterrestservertest
 =====================
 
-[@thiagophx CrudIgniter](https://github.com/thiagophx/CrudIgniter) CRUD code generator for [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) framework.
+[CRUDigniter](https://github.com/thiagophx/CrudIgniter) CRUD code generator for [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) framework.
 
 
 
@@ -9,4 +9,4 @@ codeigniterrestservertest
  1. MySQL fake data  ☑
  2. Connect to MYSQL database ☑
  3. CRUD using CrudIgniter ☑
- 4. Data to JSON
+ 4. REST
