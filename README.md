@@ -5,6 +5,8 @@ codeigniterrestservertest
 
 
 
-###To do list:
- 1.  Connect to MYSQL database.
- 2.  CRUD / JSON
+## To do list:
+ 1. MySQL fake data  ☑ 
+ 2. Connect to MYSQL database.
+ 3.  CRUD 
+ 4. JSON
