@@ -8,8 +8,8 @@ codeigniterrestservertest
 ## To do list:
  
  0. [Bootstrap](https://github.com/twbs/bootstrap) ☑
- 1. MySQL fake data  ☑
+ 1. Generate Fake MySQL data ☑
  2. Connect to MYSQL database ☑
- 3. CRUD using CrudIgniter ☑
+ 3. CRUD code using [CrudIgniter](www.crudigniter.com) ☑
  4. [DataTables](https://github.com/DataTables/DataTables)
  5. REST
