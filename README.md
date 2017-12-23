@@ -4,6 +4,8 @@ codeigniterrestservertest
 [CRUDigniter](https://github.com/thiagophx/CrudIgniter) CRUD code generator for [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) framework.
 
 
+**Before use please make sure to create  the MYSQL DATABASE and import file** [.sql](https://github.com/mohsenuss91/codeigniterrestservertest/blob/master/sqlfakedata/fulldb20-12-2017%2009-16.sql)
+
 
 ## To do list:
  
